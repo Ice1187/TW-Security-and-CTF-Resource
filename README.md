@@ -44,6 +44,10 @@
 - [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
 - [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
 
+## 獎學金
+
+- [DEVCORE 全國資訊安全獎學金](https://devco.re/blog/2022/08/26/2022-devcore-national-cyber-security-scholarship/)
+
 ## 實習
 
 - [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
