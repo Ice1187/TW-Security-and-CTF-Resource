@@ -23,6 +23,7 @@
 ### Uncategorized
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
+- [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 
 ## CTF
 
