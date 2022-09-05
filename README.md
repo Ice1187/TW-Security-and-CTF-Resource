@@ -1,5 +1,7 @@
-CTF 中文教學資源整理
+CTF 台灣資源整理
 ===
+
+## 線上學習資源
 
 ### Pwn
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
@@ -16,3 +18,25 @@ CTF 中文教學資源整理
 
 ### Crypto
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
+
+## CTF
+
+- [My First CTF](https://ais3.org/mfctf/)
+- [Pre-exam of AIS3](https://ais3.org)
+- [AIS3 EOF](https://ais3.org/eof)
+- [BambooFox CTF](https://ctftime.org/ctf/394/)
+- [TSJ CTF](https://ctftime.org/ctf/722)
+- [Balsn CTF](https://ctftime.org/ctf/318)
+- [HITCON CTF](https://ctftime.org/ctf/79)
+
+## 營隊 & 培訓計畫
+
+- [AIS3 新型態資安實務主題課程](https://ais3.org)
+- [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
+- [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
+
+## 實習
+
+- [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
+- [奧義智慧科技 資安研究實習生)(https://www.yourator.co/companies/CYCRAFT/jobs/25757)
+- [TeamT5 實習 (連結待補)]()
