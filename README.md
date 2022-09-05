@@ -1,4 +1,4 @@
-CTF 台灣資源整理
+台灣資安/CTF 學習資源整理
 ===
 
 ## 線上學習資源
@@ -8,6 +8,7 @@ CTF 台灣資源整理
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
+- [pwnable.tw (練習網站)](https://pwnable.tw)
 
 ### Web
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
@@ -18,6 +19,10 @@ CTF 台灣資源整理
 
 ### Crypto
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
+
+### Uncategorized
+- [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
+- [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
 
 ## CTF
 
@@ -31,6 +36,7 @@ CTF 台灣資源整理
 
 ## 營隊 & 培訓計畫
 
+- [高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)
 - [AIS3 新型態資安實務主題課程](https://ais3.org)
 - [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
 - [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
@@ -40,3 +46,11 @@ CTF 台灣資源整理
 - [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生)(https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習 (連結待補)]()
+
+## 國外資源
+
+雖然這裡主要是整理台灣的資安/CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
+
+### Web
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
