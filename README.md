@@ -4,7 +4,7 @@ CTF 中文教學資源整理
 ### Pwn
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
-- [2021 交大程式安全 binary exploit 課程教材 by u1f383](https://github.com/u1f383/Software-Security-2021)
+- [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 
 ### Web
