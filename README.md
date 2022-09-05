@@ -50,6 +50,10 @@
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習 (連結待補)]()
 
+## 活動
+
+- [HITCON 台灣駭客年會](http://www.hitcon.org)
+
 ## 國外資源
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
