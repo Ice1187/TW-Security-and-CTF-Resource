@@ -36,6 +36,7 @@
 - [TSJ CTF](https://ctftime.org/ctf/722)
 - [Balsn CTF](https://ctftime.org/ctf/318)
 - [HITCON CTF](https://ctftime.org/ctf/79)
+- [Hackme CTF](https://ctf.hackme.quest/)
 
 ## 營隊 & 培訓計畫
 
@@ -53,19 +54,41 @@
 - [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習 (連結待補)]()
+- [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
 
 ## 活動
 
 - [HITCON 台灣駭客年會](http://www.hitcon.org)
+- [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 
 ## 國外資源
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
+### Pwn
+
+- [pwnable.kr](http://pwnable.kr/)
+
 ### Web
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [Webhacking.kr](https://webhacking.kr/)
+
+### Crypto
+
+- [CRYPTOHACK](https://cryptohack.org/)
+
+### Reverse
+
+- [Reversing.kr](http://reversing.kr/)
 
 ### CTF
  
 - [CTFtime](https://ctftime.org)
+- [hacker101](https://www.hacker101.com/)
+- [CTFlearn](https://ctflearn.com/)
+
+### Others
+
+- [CYBRARY](https://www.cybrary.it/)
+- [看雪安全文档库](https://www.pediy.com/kssd/)
