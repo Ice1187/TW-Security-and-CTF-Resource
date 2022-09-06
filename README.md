@@ -52,7 +52,7 @@
 
 - [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
-- [TeamT5 實習 (連結待補)]()
+- [TeamT5 實習](https://www.104.com.tw/job/7hzth?jobsource=company_job)
 
 ## 活動
 
