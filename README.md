@@ -9,7 +9,6 @@
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
-- [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [pwnable.tw (練習網站)](https://pwnable.tw)
 
 ### Web
@@ -24,6 +23,11 @@
 
 ### Network
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
+
+### Advanced (?
+
+- [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
+- [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 
 ### Uncategorized
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
@@ -51,6 +55,7 @@
 
 ## 社群 & 學校社團
 
+- Deep Hacking 讀書會
 - [南臺灣學生資訊社群 SCIST](https://scist.org) [(FB 粉專)](https://www.facebook.com/scist.tw)
 - [HITCON GIRLS (女性 only)](https://www.facebook.com/HITCONGIRLS/)
 - [TDOHacker](http://tdoh.logdown.com)
