@@ -22,6 +22,9 @@
 ### Crypto
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
 
+### Network
+- [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
+
 ### Uncategorized
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
@@ -42,7 +45,20 @@
 - [高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)
 - [AIS3 新型態資安實務主題課程](https://ais3.org)
 - [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
+- [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
 - [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
+
+## 社群
+
+- [HITCON GIRLS (女性 only)](https://www.facebook.com/HITCONGIRLS/)
+- [TDOHacker](http://tdoh.logdown.com)
+- [UCCU Hacker](https://www.facebook.com/UCCU.Hacker/)
+- [CHROOT](http://www.chroot.org)
+
+## 活動
+
+- [HITCON 台灣駭客年會](http://www.hitcon.org)
+- [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 
 ## 獎學金
 
@@ -53,10 +69,6 @@
 - [DEVCORE 實習生計畫](https://devco.re/blog/2022/07/25/2nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習](https://www.104.com.tw/job/7hzth?jobsource=company_job)
-
-## 活動
-
-- [HITCON 台灣駭客年會](http://www.hitcon.org)
 
 ## 國外資源
 
