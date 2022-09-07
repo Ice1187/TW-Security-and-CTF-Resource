@@ -49,6 +49,7 @@
 - [高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)
 - [AIS3 新型態資安實務主題課程](https://ais3.org)
 - [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
+- [CCoE 資安菁英人才培訓課程](https://ccoe.narlabs.org.tw/CTI/training/main/)
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
 - [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
