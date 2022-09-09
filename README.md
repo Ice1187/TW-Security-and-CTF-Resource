@@ -13,6 +13,7 @@
 
 ### Web
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
+- [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
 
 ### Reverse
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
@@ -33,6 +34,14 @@
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
+- [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
+
+## 經驗分享
+
+- [關於 CTF 的那些事 by LYS](https://www.youtube.com/watch?v=_lNPRlt6c2E)
+- [Windows 系統安全這麼複雜怎麼學 by Zeze](https://drive.google.com/file/d/1CPnYh8_BXJzxAEY_VJUDlLsdvWuSN0q8/view)
+- [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
+- [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
 
 ## CTF
 
@@ -99,3 +108,7 @@
 ### CTF
  
 - [CTFtime](https://ctftime.org)
+
+### Embedded
+
+- [Embedded Security CTF](https://microcorruption.com)
