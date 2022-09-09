@@ -66,7 +66,8 @@
 ### 學校社團
 
 - [台灣科技大學 資安研究社 NTUSTISC](https://ntusthack.feifei.tw) [(FB 粉專)](https://www.facebook.com/ntust.hacking)
-- [國立交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nctu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
+- [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nctu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
+- [中央大學 CTF 讀書會 NCtfU](https://www.facebook.com/nctfu/)
 - [逢甲大學 黑客社 HackerSir](https://hackersir.org/) [(FB 粉專)](https://www.facebook.com/HackerSir.tw/)
 - [中山大學 資安社 NSYSU ISC](https://www.facebook.com/nsysuisc/)
 - [輔仁大學 資訊安全研究會 NISRA](https://www.nisra.net) [(FB 粉專)](https://www.facebook.com/N15RA/)
