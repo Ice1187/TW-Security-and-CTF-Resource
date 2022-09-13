@@ -140,6 +140,10 @@ Table of Contents
 
 - [pwn.college](https://pwn.college)
 
+### Crypto
+
+- [Crypton](https://github.com/ashutosh1206/Crypton)
+
 ### Embedded
 
 - [Embedded Security CTF](https://microcorruption.com)
