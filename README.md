@@ -80,6 +80,7 @@ Table of Contents
 - [TSJ CTF](https://ctftime.org/ctf/722)
 - [Balsn CTF](https://ctftime.org/ctf/318)
 - [HITCON CTF](https://ctftime.org/ctf/79)
+- [Hackme CTF](https://ctf.hackme.quest/)
 
 ## 營隊 & 培訓計畫
 
@@ -113,6 +114,7 @@ Table of Contents
 ## 活動
 
 - [HITCON 台灣駭客年會](http://www.hitcon.org)
+- [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 
 ## 獎學金
@@ -125,27 +127,43 @@ Table of Contents
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習](https://www.104.com.tw/job/7hzth?jobsource=company_job)
 - [TrapaSecurity 實習](https://hackmd.io/@trapasecurity/Skpr9McCq)
+- [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
 
 ## 國外資源
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
+### Pwn
+
+- [pwnable.kr](http://pwnable.kr/)
+
 ### Web
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+- [Webhacking.kr](https://webhacking.kr/)
+
+### Crypto
+
+
+
+### Reverse
+
+- [Reversing.kr](http://reversing.kr/)
 
 ### CTF
  
 - [CTFtime](https://ctftime.org)
 
-### Uncategorized
-
-- [pwn.college](https://pwn.college)
-
 ### Crypto
 
+- [CRYPTOHACK](https://cryptohack.org/)
 - [Crypton](https://github.com/ashutosh1206/Crypton)
 
 ### Embedded
 
 - [Embedded Security CTF](https://microcorruption.com)
+
+### Uncategorized
+
+- [pwn.college](https://pwn.college)
+
