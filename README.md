@@ -56,6 +56,7 @@ Table of Contents
 
 - [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
+- [Hao's Arsenal](https://blog.30cm.tw)
 
 ### Uncategorized
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
