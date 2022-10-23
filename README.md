@@ -3,10 +3,8 @@
 
 > 如果你有看到什麼優質的學習資源，歡迎發 PR！
 
-Table of Contents
-=================
+## Table of Contents
 
-* [台灣資安 / CTF 學習資源整理](#台灣資安--ctf-學習資源整理)
    * [線上學習資源](#線上學習資源)
       * [Pwn](#pwn)
       * [Web](#web)
@@ -17,6 +15,7 @@ Table of Contents
       * [Uncategorized](#uncategorized)
    * [經驗分享](#經驗分享)
    * [CTF](#ctf)
+   * [Wargame](#wargame)
    * [營隊 &amp; 培訓計畫](#營隊--培訓計畫)
    * [社群 &amp; 學校社團](#社群--學校社團)
       * [學校社團](#學校社團)
@@ -24,9 +23,11 @@ Table of Contents
    * [獎學金](#獎學金)
    * [實習](#實習)
    * [國外資源](#國外資源)
-      * [Web](#web-1)
       * [CTF](#ctf-1)
+      * [Web](#web-1)
+      * [Crypto](#crypto-1)
       * [Embedded](#embedded)
+      * [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
