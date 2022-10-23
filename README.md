@@ -27,6 +27,7 @@
       * [Web](#web-1)
       * [Crypto](#crypto-1)
       * [Embedded](#embedded)
+      * [Penetration Test](#penetration-test)
       * [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -154,6 +155,10 @@
 ### Embedded
 
 - [Embedded Security CTF](https://microcorruption.com)
+
+### Penetration Test
+- [HackTheBox](https://www.hackthebox.com)
+- [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
 
 ### Uncategorized
 
