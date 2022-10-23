@@ -36,7 +36,6 @@ Table of Contents
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
-- [pwnable.tw (練習網站)](https://pwnable.tw)
 
 ### Web
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
@@ -73,14 +72,18 @@ Table of Contents
 
 ## CTF
 
-- [My First CTF](https://ais3.org/mfctf/)
+- [MyFirstCTF](https://ais3.org/mfctf/)
 - [Pre-exam of AIS3](https://ais3.org)
 - [AIS3 EOF](https://ais3.org/eof)
 - [BambooFox CTF](https://ctftime.org/ctf/394/)
 - [TSJ CTF](https://ctftime.org/ctf/722)
 - [Balsn CTF](https://ctftime.org/ctf/318)
 - [HITCON CTF](https://ctftime.org/ctf/79)
+
+## Wargame
+
 - [Hackme CTF](https://ctf.hackme.quest/)
+- [pwnable.tw](https://pwnable.tw)
 
 ## 營隊 & 培訓計畫
 
@@ -133,25 +136,13 @@ Table of Contents
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
-### Pwn
-
-- [pwnable.kr](http://pwnable.kr/)
-
 ### Web
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- [Webhacking.kr](https://webhacking.kr/)
-
-### Crypto
-
-
-
-### Reverse
-
-- [Reversing.kr](http://reversing.kr/)
 
 ### CTF
  
+- [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
 
 ### Crypto
