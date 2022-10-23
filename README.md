@@ -136,14 +136,14 @@ Table of Contents
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
-### Web
-
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-
 ### CTF
  
 - [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
+
+### Web
+
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ### Crypto
 
