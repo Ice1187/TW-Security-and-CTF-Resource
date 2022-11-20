@@ -11,6 +11,7 @@
       * [Reverse](#reverse)
       * [Crypto](#crypto)
       * [Network](#network)
+      * [Fuzzing](#fuzzing)
       * [Advanced (?](#advanced-)
       * [Uncategorized](#uncategorized)
    * [經驗分享](#經驗分享)
@@ -53,7 +54,7 @@
 ### Network
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
 
-## Fuzzing
+### Fuzzing
 - [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
 
 ### Advanced (?
