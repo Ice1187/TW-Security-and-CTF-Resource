@@ -53,6 +53,9 @@
 ### Network
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
 
+## Fuzzing
+- [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
+
 ### Advanced (?
 
 - [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
