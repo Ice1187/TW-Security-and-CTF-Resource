@@ -94,7 +94,7 @@
 - [臺灣好厲駭 高階資安人才培訓計畫](https://isip.moe.edu.tw/wordpress/?p=2564)
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
-- [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp/)
+- [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/team-t5-security-camp-2023-info/)
 - [CCoE 資安菁英人才培訓課程](https://ccoe.narlabs.org.tw/CTI/training/main/)
 
 ## 社群 & 學校社團
