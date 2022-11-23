@@ -105,6 +105,7 @@
 
 - Deep Hacking 讀書會
 - [南臺灣學生資訊社群 SCIST](https://scist.org) [(FB 粉專)](https://www.facebook.com/scist.tw) [(YouTube)](https://www.youtube.com/c/OfficialSCIST)
+- [CURA (CyberSecurity Unions Research Association)](https://www.facebook.com/profile.php?id=100086766466326)
 - [HITCON GIRLS (女性 only)](https://www.facebook.com/HITCONGIRLS/)
 - [TDOHacker](http://tdoh.logdown.com)
 - [UCCU Hacker](https://www.facebook.com/UCCU.Hacker/)
