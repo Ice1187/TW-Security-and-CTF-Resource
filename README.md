@@ -27,7 +27,7 @@
       * [CTF](#ctf-1)
       * [Web](#web-1)
       * [Crypto](#crypto-1)
-      # [Pwn](#pwn-1)
+      * [Pwn](#pwn-1)
       * [Embedded](#embedded)
       * [Penetration Test](#penetration-test)
       * [Uncategorized](#uncategorized-1)
