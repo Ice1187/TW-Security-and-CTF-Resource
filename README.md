@@ -56,6 +56,7 @@
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
 
 ### Fuzzing
+- [fuzzing-learning-in-30-days by u1f383](https://github.com/u1f383/fuzzing-learning-in-30-days)
 - [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
 
 ### Advanced (?
