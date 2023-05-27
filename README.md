@@ -60,6 +60,7 @@
 - [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
 
 ### Windows
+- [現實主義勇者的 Windows 攻防記 by Zeze](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
 - [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9789864347544)
 
 ### Advanced (?
