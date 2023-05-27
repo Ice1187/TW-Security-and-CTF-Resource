@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-   * [線上學習資源](#線上學習資源)
+   * [學習資源](#學習資源)
       * [Pwn](#pwn)
       * [Web](#web)
       * [Reverse](#reverse)
@@ -34,7 +34,7 @@
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
-## 線上學習資源
+## 學習資源
 
 ### Pwn
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
@@ -58,6 +58,9 @@
 ### Fuzzing
 - [fuzzing-learning-in-30-days by u1f383](https://github.com/u1f383/fuzzing-learning-in-30-days)
 - [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
+
+### Windows
+- [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9789864347544)
 
 ### Advanced (?
 
