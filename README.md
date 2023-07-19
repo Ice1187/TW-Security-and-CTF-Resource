@@ -140,10 +140,10 @@
 
 ## 實習
 
-- [DEVCORE 實習生計畫](https://devco.re/blog/2023/01/14/3rd-internship-program-recruit/)
+- [DEVCORE 實習生計畫](https://devco.re/blog/2023/07/18/4nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://www.yourator.co/companies/CYCRAFT/jobs/25757)
 - [TeamT5 實習](https://www.104.com.tw/company/1a2x6bkavd?roleJobCat=2_0&area=0&page=1&pageSize=20&order=8&asc=0&jobsource=company_job%5D%28https%3A%2F%2Fwww.104.com.tw%2Fcompany%2F1a2x6bkavd%3FroleJobCat%3D2_0&jobsource=company_job&tab=job)
-- [TrapaSecurity 實習](https://hackmd.io/@trapasecurity/Skpr9McCq)
+- [TrapaSecurity 實習](https://www.cakeresume.com/companies/trapasecurity/jobs/64059a)
 - [TXOne Networks 實習](https://txone.uat.tclstaging.com/blog/2023-txone-global-cybersecurity-internship-program/)
 - [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
 
