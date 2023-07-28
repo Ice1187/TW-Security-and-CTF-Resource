@@ -3,6 +3,11 @@
 
 > 如果你有看到什麼優質的學習資源，歡迎發 PR！
 
+Wanted:
+[ ] 威脅情資運用
+[ ] Mobile Secuirty
+[ ] Car/Automotive Security
+
 ## Table of Contents
 
    * [學習資源](#學習資源)
@@ -45,6 +50,8 @@
 ### Web
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
 - [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
+- [Maple's Blog](https://blog.maple3142.net/)
+- [Huli's Blog](https://blog.huli.tw/categories/Security/)
 
 ### Reverse
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
