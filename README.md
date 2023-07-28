@@ -3,10 +3,10 @@
 
 > 如果你有看到什麼優質的學習資源，歡迎發 PR！
 
-Wanted:
-[ ] 威脅情資運用
-[ ] Mobile Secuirty
-[ ] Car/Automotive Security
+### Wanted:
+- [ ] 威脅情資運用
+- [ ] Mobile Secuirty
+- [ ] Car/Automotive Security
 
 ## Table of Contents
 
