@@ -148,7 +148,7 @@
 
 ## 獎學金
 
-- [DEVCORE 全國資訊安全獎學金](https://devco.re/blog/2022/08/26/2022-devcore-national-cyber-security-scholarship/)
+- [DEVCORE 全國資訊安全獎學金](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
 
 ## 實習
 
