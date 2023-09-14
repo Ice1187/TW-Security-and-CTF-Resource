@@ -19,6 +19,7 @@
       * [Fuzzing](#fuzzing)
       * [Windows](#windows)
       * [Advanced (?](#advanced-)
+      * [大學課程線上影片](#大學課程線上影片)
       * [Uncategorized](#uncategorized)
    * [經驗分享](#經驗分享)
    * [CTF](#ctf)
@@ -73,10 +74,13 @@
 - [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9789864347544)
 
 ### Advanced (?
-
 - [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [Hao's Arsenal](https://blog.30cm.tw)
+
+### 大學課程線上影片
+- [台大/交大/台科大 計算機安全](https://www.youtube.com/@edu-ctf/featured)
+- [台師大 資安攻防演練](https://youtube.com/playlist?list=PLBoiH9x2FdcPz6612yJXaMFWUAk_ZrPoO&si=0Nrihvsk69MzU9FS)
 
 ### Uncategorized
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
