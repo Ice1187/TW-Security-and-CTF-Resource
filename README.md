@@ -44,7 +44,7 @@
 ## 學習資源
 
 ### Pwn
-- [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN) [課程 repo](https://github.com/frozenkp/CTF)
+- [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN) [(課程 repo)](https://github.com/frozenkp/CTF)
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
