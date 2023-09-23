@@ -174,26 +174,24 @@
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
 ### CTF
- 
 - [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
 
 ### Web
-
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ### Crypto
-
 - [CRYPTOHACK](https://cryptohack.org/)
 - [Crypton](https://github.com/ashutosh1206/Crypton)
 
 ### Pwn
-
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
 
-### Embedded
+### Fuzzing
+- [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 
+### Embedded
 - [Embedded Security CTF](https://microcorruption.com)
 
 ### Penetration Test
@@ -201,6 +199,5 @@
 - [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
 
 ### Uncategorized
-
 - [pwn.college](https://pwn.college)
 
