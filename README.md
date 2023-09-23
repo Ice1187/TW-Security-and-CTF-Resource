@@ -52,8 +52,8 @@
 ### Web
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
 - [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
-- [Maple's Blog](https://blog.maple3142.net/)
 - [Huli's Blog](https://blog.huli.tw/categories/Security/)
+- [Maple's Blog](https://blog.maple3142.net/)
 
 ### Reverse
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
@@ -72,6 +72,9 @@
 ### Windows
 - [現實主義勇者的 Windows 攻防記 by Zeze](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
 - [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9786263335448)
+
+### Android
+- [Android App 逆向入門 by Huli](https://blog.huli.tw/2023/04/27/android-apk-decompile-intro-1/)
 
 ### Advanced (?
 - [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
