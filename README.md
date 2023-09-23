@@ -36,6 +36,7 @@
       * [Web](#web-1)
       * [Crypto](#crypto-1)
       * [Pwn](#pwn-1)
+      * [Fuzzing](#fuzzing-1)
       * [Embedded](#embedded)
       * [Penetration Test](#penetration-test)
       * [Uncategorized](#uncategorized-1)
