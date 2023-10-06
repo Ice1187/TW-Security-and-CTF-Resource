@@ -184,6 +184,7 @@
 ### Crypto
 - [CRYPTOHACK](https://cryptohack.org/)
 - [Crypton](https://github.com/ashutosh1206/Crypton)
+- [Lattice-Based Cryptanalysis](https://github.com/josephsurin/lattice-based-cryptanalysis/blob/main/tutorial.pdf)
 
 ### Pwn
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
