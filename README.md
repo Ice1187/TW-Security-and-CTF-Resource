@@ -31,7 +31,7 @@
    * [活動](#活動)
    * [獎學金](#獎學金)
    * [實習](#實習)
-   * [贊助](#社團讀書會資安活動贊助)
+   * [贊助](#贊助)
    * [國外資源](#國外資源)
       * [CTF](#ctf-1)
       * [Web](#web-1)
@@ -170,7 +170,7 @@
 - [TXOne Networks 實習](https://txone.uat.tclstaging.com/blog/2023-txone-global-cybersecurity-internship-program/)
 - [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
 
-## 社團、讀書會、資安活動贊助
+## 贊助
 
 - [HITCON 台灣資安社群補助計畫](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 - [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
