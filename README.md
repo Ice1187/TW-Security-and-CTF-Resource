@@ -5,7 +5,8 @@
 
 ### Wanted:
 - [ ] 威脅情資運用
-- [ ] Mobile Secuirty
+- [ ] iOS Secuirty
+- [ ] Cloud Security
 - [ ] Car/Automotive Security
 
 ## Table of Contents
