@@ -118,6 +118,7 @@
 - [Hackme CTF](https://ctf.hackme.quest/)
 - [SCIST CTF](https://ctf.scist.org/)
 - [LoTuX CTF](https://lotuxctf.com/)
+- [BambooFox Wargame](https://bamboofox.cs.nctu.edu.tw/challenge_submissions)
 
 ## 營隊 & 培訓計畫
 
