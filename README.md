@@ -28,7 +28,7 @@
    * [Wargame](#wargame)
    * [營隊 &amp; 培訓計畫](#營隊--培訓計畫)
    * [社群 &amp; 學校社團](#社群--學校社團)
-      * [學校社團](#學校社團)
+      * [學校社團](#學校社群社團)
    * [活動](#活動)
    * [獎學金](#獎學金)
    * [實習](#實習)
@@ -146,12 +146,12 @@
 
 ### 學校社群/社團
 - [台灣大學 網路安全實驗室 Balsn](https://balsn.tw)
-- [台灣科技大學 資安研究社 NTUSTISC](https://ntusthack.feifei.tw) [(FB 粉專)](https://www.facebook.com/ntust.hacking)
+- [台灣科技大學 資安研究社 NTUSTISC](https://www.facebook.com/ntust.hacking)
 - [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nctu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
 - [中央大學 CTF 讀書會 NCtfU](https://www.facebook.com/nctfu/)
 - [逢甲大學 黑客社 HackerSir](https://hackersir.org/) [(FB 粉專)](https://www.facebook.com/HackerSir.tw/)
 - [中山大學 資安社 NSYSU ISC](https://www.facebook.com/nsysuisc/)
-- [輔仁大學 資訊安全研究會 NISRA](https://www.nisra.net) [(FB 粉專)](https://www.facebook.com/N15RA/)
+- [輔仁大學 資訊安全研究會 NISRA](https://www.facebook.com/N15RA/)
 - [東海大學 駭客社](https://www.facebook.com/東海駭客社-Hackers-in-Tunghai-115250553936475/)
 
 ## 活動
