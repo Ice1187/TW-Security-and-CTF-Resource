@@ -12,6 +12,7 @@
 ## Table of Contents
 
    * [學習資源](#學習資源)
+      * [Basics](#basics) 
       * [Pwn](#pwn)
       * [Web](#web)
       * [Reverse](#reverse)
@@ -46,6 +47,10 @@
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 ## 學習資源
+
+### Basics
+- [Introduction to CTF by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Introduction%20to%20CTF.pdf)
+- [Linux Basic by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 
 ### Pwn
 - [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN)
