@@ -68,6 +68,7 @@
 ### Reverse
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
 - [2020 交大程式安全：逆向工程上課講義 by Terrynini](https://speakerdeck.com/terrynini/2020-jiao-da-cheng-shi-an-quan-ni-xiang-gong-cheng-shang-ke-jiang-yi-nil-di-zhou-di-duan)
+- [2023 臺大計算機安全：Windows Malware RE by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
 
 ### Crypto
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
