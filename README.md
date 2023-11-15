@@ -54,10 +54,10 @@
 - [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1lyPVZfxukB8hk-RLzuVoLS9c8-jcAMrl/view)
 
 ### Pwn
-- [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN)
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
-- [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
+- [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN)
+- [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 
 ### Web
@@ -218,4 +218,5 @@
 
 ### Uncategorized
 - [pwn.college](https://pwn.college)
+- [TryHackMe](https://tryhackme.com/)
 
