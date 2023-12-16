@@ -89,7 +89,7 @@
 - [Android App 逆向入門 by Huli](https://blog.huli.tw/2023/04/27/android-apk-decompile-intro-1/)
 
 ### Advanced (?
-- [Orange's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
+- [Orange🍊's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [Hao's Arsenal](https://blog.30cm.tw)
 
@@ -108,7 +108,8 @@
 - [關於 CTF 的那些事 by LYS](https://www.youtube.com/watch?v=_lNPRlt6c2E)
 - [Windows 系統安全這麼複雜怎麼學 by Zeze](https://drive.google.com/file/d/1CPnYh8_BXJzxAEY_VJUDlLsdvWuSN0q8/view)
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
-- [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
+- [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
+- [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds by Orange🍊](https://github.com/orangetw/My-Presentation-Slides#2023)
 
 ## CTF
 
