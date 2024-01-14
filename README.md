@@ -35,6 +35,7 @@
    * [實習](#實習)
    * [贊助](#贊助)
    * [國外資源](#國外資源)
+      * [Mindset](#Mindset)
       * [CTF](#ctf-1)
       * [Web](#web-1)
       * [Crypto](#crypto-1)
@@ -193,6 +194,9 @@
 ## 國外資源
 
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
+
+### Mindset 心法
+- [Some Thoughts on Teaching Hacking](https://jeremyharbinger.com/teaching-hacking-1)
 
 ### CTF
 - [picoCTF](https://picoctf.org)
