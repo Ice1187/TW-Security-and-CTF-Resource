@@ -35,7 +35,7 @@
    * [實習](#實習)
    * [贊助](#贊助)
    * [國外資源](#國外資源)
-      * [Mindset](#Mindset)
+      * [Mindset](#mindset-心法)
       * [CTF](#ctf-1)
       * [Web](#web-1)
       * [Crypto](#crypto-1)
