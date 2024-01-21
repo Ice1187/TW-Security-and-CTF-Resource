@@ -167,7 +167,8 @@
 
 ## 活動
 
-- [HITCON 台灣駭客年會](http://www.hitcon.org)
+- [HITCON 台灣駭客年會](https://hitcon.org)
+- [DEVCORE CONFERENCE](https://conf.devco.re/)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 - [活動分享 by NICS 資安人蔘](https://www.facebook.com/te.nics.tw/)
@@ -178,7 +179,7 @@
 
 ## 實習
 
-- [DEVCORE 實習生計畫](https://devco.re/blog/2023/07/18/4nd-internship-program-recruit/)
+- [DEVCORE 實習生計畫](https://devco.re/blog/2024/01/05/5nd-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://docs.google.com/forms/d/e/1FAIpQLSeu2qFpHICCRmwtcAo1O_9MJRNdgWpO7DdOMd7MDeWEgRf8ew/viewform)
 - [TeamT5 實習](https://www.104.com.tw/company/1a2x6bkavd?roleJobCat=2_0&area=0&page=1&pageSize=20&order=8&asc=0&jobsource=company_job%5D%28https%3A%2F%2Fwww.104.com.tw%2Fcompany%2F1a2x6bkavd%3FroleJobCat%3D2_0&jobsource=company_job&tab=job)
 - [TrapaSecurity 實習](https://hackmd.io/@trapasecurity/Skpr9McCq)
