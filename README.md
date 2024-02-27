@@ -208,6 +208,7 @@
 
 ### Crypto
 - [CRYPTOHACK](https://cryptohack.org/)
+- [Understanding Cryptography: A Textbook for Students and Practitioners](http://ndl.ethernet.edu.et/bitstream/123456789/89369/1/Understanding%20cryptography%20a%20textbook%20for%20students%20and%20practitioners%20by%20Christof%20Paar%2C%20Jan%20Pelzl.pdf)
 - [Crypton](https://github.com/ashutosh1206/Crypton)
 - [Lattice-Based Cryptanalysis](https://github.com/josephsurin/lattice-based-cryptanalysis/blob/main/tutorial.pdf)
 
