@@ -118,6 +118,7 @@
 - [Pre-exam of AIS3](https://ais3.org)
 - [AIS3 EOF](https://ais3.org/eof)
 - [BambooFox CTF](https://ctftime.org/ctf/394/)
+- [THJCC CTF (Taiwan High-school Joint Cybersecurity Competition) 臺灣高中聯合資安競賽](https://discord.com/invite/RDhf7rxz4f)
 - [TSC CTF (Taiwan Security Club CTF)](https://facebook.com/profile.php/?id=61552584062920)
 - [TSJ CTF](https://ctftime.org/ctf/722)
 - [Balsn CTF](https://ctftime.org/ctf/318)
