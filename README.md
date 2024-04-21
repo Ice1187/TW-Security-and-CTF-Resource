@@ -7,7 +7,6 @@
 - [ ] 威脅情資運用
 - [ ] iOS Secuirty
 - [ ] Cloud Security
-- [ ] Car/Automotive Security
 
 ## Table of Contents
 
@@ -43,6 +42,7 @@
       * [Fuzzing](#fuzzing-1)
       * [Embedded](#embedded)
       * [Penetration Test](#penetration-test)
+      * [Car/Automotive Hacking](#car-automotive-hacking)
       * [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -227,6 +227,9 @@
 ### Penetration Test
 - [HackTheBox](https://www.hackthebox.com)
 - [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
+
+### Car/Automotive Hacking
+- [Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
 
 ### Uncategorized
 - [pwn.college](https://pwn.college)
