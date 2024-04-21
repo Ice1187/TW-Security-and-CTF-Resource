@@ -42,7 +42,7 @@
       * [Fuzzing](#fuzzing-1)
       * [Embedded](#embedded)
       * [Penetration Test](#penetration-test)
-      * [Car/Automotive Hacking](#car-automotive-hacking)
+      * [Car/Automotive Hacking](#carautomotive-hacking)
       * [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
