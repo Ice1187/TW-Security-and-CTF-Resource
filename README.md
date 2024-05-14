@@ -1,106 +1,120 @@
-台灣資安 / CTF 學習資源整理
-===
+# 台灣資安 / CTF 學習資源整理
 
 > 如果你有看到什麼優質的學習資源，歡迎發 PR！
 
 ### Wanted:
+
 - [ ] 威脅情資運用
 - [ ] iOS Secuirty
 - [ ] Cloud Security
 
 ## Table of Contents
 
-   * [學習資源](#學習資源)
-      * [Basics](#basics) 
-      * [Pwn](#pwn)
-      * [Web](#web)
-      * [Reverse](#reverse)
-      * [Crypto](#crypto)
-      * [Network](#network)
-      * [Fuzzing](#fuzzing)
-      * [Windows](#windows)
-      * [Android](#android)
-      * [Advanced (?](#advanced-)
-      * [大學課程線上影片](#大學課程線上影片)
-      * [Uncategorized](#uncategorized)
-   * [經驗分享](#經驗分享)
-   * [CTF](#ctf)
-   * [Wargame](#wargame)
-   * [營隊 &amp; 培訓計畫](#營隊--培訓計畫)
-   * [社群 &amp; 學校社團](#社群--學校社團)
-      * [學校社團](#學校社群社團)
-   * [活動](#活動)
-   * [獎學金](#獎學金)
-   * [實習](#實習)
-   * [贊助](#贊助)
-   * [國外資源](#國外資源)
-      * [Mindset](#mindset-心法)
-      * [CTF](#ctf-1)
-      * [Web](#web-1)
-      * [Crypto](#crypto-1)
-      * [Pwn](#pwn-1)
-      * [Fuzzing](#fuzzing-1)
-      * [Embedded](#embedded)
-      * [Penetration Test](#penetration-test)
-      * [Car/Automotive Hacking](#carautomotive-hacking)
-      * [Uncategorized](#uncategorized-1)
+- [學習資源](#學習資源)
+  - [Basics](#basics)
+  - [Pwn](#pwn)
+  - [Web](#web)
+  - [Reverse](#reverse)
+  - [Crypto](#crypto)
+  - [Network](#network)
+  - [Fuzzing](#fuzzing)
+  - [Windows](#windows)
+  - [Android](#android)
+  - [Advanced (?](#advanced-)
+  - [大學課程線上影片](#大學課程線上影片)
+  - [Uncategorized](#uncategorized)
+- [經驗分享](#經驗分享)
+- [CTF](#ctf)
+- [Wargame](#wargame)
+- [營隊 &amp; 培訓計畫](#營隊--培訓計畫)
+- [社群 &amp; 學校社團](#社群--學校社團)
+  - [學校社團](#學校社群社團)
+- [活動](#活動)
+- [獎學金](#獎學金)
+- [實習](#實習)
+- [贊助](#贊助)
+- [國外資源](#國外資源)
+  - [Mindset](#mindset-心法)
+  - [CTF](#ctf-1)
+  - [Web](#web-1)
+  - [Crypto](#crypto-1)
+  - [Pwn](#pwn-1)
+  - [Fuzzing](#fuzzing-1)
+  - [Embedded](#embedded)
+  - [Penetration Test](#penetration-test)
+  - [Car/Automotive Hacking](#carautomotive-hacking)
+  - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 
 ## 學習資源
 
 ### Basics
+
 - [Introduction to CTF by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Introduction%20to%20CTF.pdf)
 - [Linux Basic by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 - [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1lyPVZfxukB8hk-RLzuVoLS9c8-jcAMrl/view)
 
 ### Pwn
+
 - [NTU Computer Security by Yuawn](https://github.com/yuawn/NTU-Computer-Security)
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
 - [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
+- [Kazma's Blog](https://kazma.tw)
 
 ### Web
+
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
 - [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
 - [Huli's Blog](https://blog.huli.tw/categories/Security/)
 - [Maple's Blog](https://blog.maple3142.net/)
 
 ### Reverse
+
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
 - [2020 交大程式安全：逆向工程上課講義 by Terrynini](https://speakerdeck.com/terrynini/2020-jiao-da-cheng-shi-an-quan-ni-xiang-gong-cheng-shang-ke-jiang-yi-nil-di-zhou-di-duan)
 - [2023 臺大計算機安全：Windows Malware RE by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
 
 ### Crypto
+
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
 
 ### Network
+
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
 
 ### Fuzzing
+
 - [fuzzing-learning-in-30-days by u1f383](https://github.com/u1f383/fuzzing-learning-in-30-days)
 - [Fuzzing by Yuawn](https://github.com/yuawn/Fuzzing)
 
 ### Windows
+
 - [現實主義勇者的 Windows 攻防記 by Zeze](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
 - [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9786263335448)
 
 ### Android
+
 - [Android App 逆向入門 by Huli](https://blog.huli.tw/2023/04/27/android-apk-decompile-intro-1/)
 
 ### Advanced (?
+
 - [Orange🍊's Presentation Slides](https://github.com/orangetw/My-Presentation-Slides)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [Hao's Arsenal](https://blog.30cm.tw)
 
 ### 大學課程線上影片
+
 - [台大/交大/台科大 計算機安全](https://www.youtube.com/@edu-ctf/featured)
 - [台師大 資安攻防演練](https://youtube.com/playlist?list=PLBoiH9x2FdcPz6612yJXaMFWUAk_ZrPoO&si=0Nrihvsk69MzU9FS)
 
 ### Uncategorized
+
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
+- [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 - [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
 
@@ -119,11 +133,21 @@
 - [AIS3 EOF](https://ais3.org/eof)
 - [BambooFox CTF](https://ctftime.org/ctf/394/)
 - [THJCC CTF (Taiwan High-school Joint Cybersecurity Competition) 臺灣高中聯合資安競賽](https://discord.com/invite/RDhf7rxz4f)
-- [TSC CTF (Taiwan Security Club CTF)](https://facebook.com/profile.php/?id=61552584062920)
+- [TSC CTF (Taiwan Security Club CTF)](https://discord.gg/AyKBaEWWVn)
 - [TSJ CTF](https://ctftime.org/ctf/722)
 - [Balsn CTF](https://ctftime.org/ctf/318)
 - [ACSC CTF (Asian Cyber Security Challenge)](https://acsc.asia)
 - [HITCON CTF](https://ctftime.org/ctf/79)
+- [LINE CTF](https://linectf.me/)
+- [PlaidCTF](https://plaidctf.com/)
+- [DEFCON CTF](https://ctftime.org/ctf/2/)
+- [bi0sCTF](https://ctftime.org/ctf/31/)
+- [Real World CTF](https://realworldctf.com/)
+- [CGGC 網路守護者挑戰賽](https://cggc.nchc.org.tw/)
+- [T貓盃全國資安基礎實務能力競賽](https://tcat2023.twisc.ncku.edu.tw/home)
+- [Aegis CTF](https://www.facebook.com/Aegis.CTF/?locale=zh_TW)
+- [GiCS 資安女婕思](https://gics.tw/Home)
+- [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 
 ## Wargame
 
@@ -156,8 +180,10 @@
 - [TDOHacker](http://tdoh.logdown.com)
 - [UCCU Hacker](https://www.facebook.com/UCCU.Hacker/)
 - [CHROOT](http://www.chroot.org)
+- [B33F 50UP 戰隊(開 ticket 申請加入)](https://discord.gg/G5rTjx72FH)
 
 ### 學校社群/社團
+
 - [台灣大學 網路安全實驗室 Balsn](https://balsn.tw)
 - [台灣科技大學 資安研究社 NTUSTISC](https://www.facebook.com/ntust.hacking)
 - [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nctu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
@@ -166,7 +192,7 @@
 - [中山大學 資安社 NSYSU ISC](https://www.facebook.com/nsysuisc/)
 - [輔仁大學 資訊安全研究會 NISRA](https://www.facebook.com/N15RA/)
 - [東海大學 駭客社](https://www.facebook.com/東海駭客社-Hackers-in-Tunghai-115250553936475/)
-- [成功大學 資安社](https://www.facebook.com/NCKUCTF/)
+- [成功大學 資安社](https://linktr.ee/NCKUCTF)
 
 ## 活動
 
@@ -200,39 +226,48 @@
 雖然這裡主要是整理台灣的資安 / CTF 學習資源，但因爲我認為這些資源的內容和品質非常好，因此還是放一下。
 
 ### Mindset 心法
+
 - [Some Thoughts on Teaching Hacking](https://jeremyharbinger.com/teaching-hacking-1)
 
 ### CTF
+
 - [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
 
 ### Web
+
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 
 ### Crypto
+
 - [CRYPTOHACK](https://cryptohack.org/)
 - [Understanding Cryptography: A Textbook for Students and Practitioners](http://ndl.ethernet.edu.et/bitstream/123456789/89369/1/Understanding%20cryptography%20a%20textbook%20for%20students%20and%20practitioners%20by%20Christof%20Paar%2C%20Jan%20Pelzl.pdf)
 - [Crypton](https://github.com/ashutosh1206/Crypton)
 - [Lattice-Based Cryptanalysis](https://github.com/josephsurin/lattice-based-cryptanalysis/blob/main/tutorial.pdf)
 
 ### Pwn
+
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
 
 ### Fuzzing
+
 - [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 
 ### Embedded
+
 - [Embedded Security CTF](https://microcorruption.com)
 
 ### Penetration Test
+
 - [HackTheBox](https://www.hackthebox.com)
 - [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
 
 ### Car/Automotive Hacking
+
 - [Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
 
 ### Uncategorized
+
 - [pwn.college](https://pwn.college)
 - [TryHackMe](https://tryhackme.com/)
-
