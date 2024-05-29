@@ -138,14 +138,8 @@
 - [Balsn CTF](https://ctftime.org/ctf/318)
 - [ACSC CTF (Asian Cyber Security Challenge)](https://acsc.asia)
 - [HITCON CTF](https://ctftime.org/ctf/79)
-- [LINE CTF](https://linectf.me/)
-- [PlaidCTF](https://plaidctf.com/)
-- [DEFCON CTF](https://ctftime.org/ctf/2/)
-- [bi0sCTF](https://ctftime.org/ctf/31/)
-- [Real World CTF](https://realworldctf.com/)
 - [CGGC 網路守護者挑戰賽](https://cggc.nchc.org.tw/)
-- [T貓盃全國資安基礎實務能力競賽](https://tcat2023.twisc.ncku.edu.tw/home)
-- [Aegis CTF](https://www.facebook.com/Aegis.CTF/?locale=zh_TW)
+- [神盾盃 資安競賽](https://www.facebook.com/Aegis.CTF/?locale=zh_TW)
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 
@@ -180,7 +174,7 @@
 - [TDOHacker](http://tdoh.logdown.com)
 - [UCCU Hacker](https://www.facebook.com/UCCU.Hacker/)
 - [CHROOT](http://www.chroot.org)
-- [B33F 50UP 戰隊(開 ticket 申請加入)](https://discord.gg/G5rTjx72FH)
+- [B33F 50UP](https://discord.gg/G5rTjx72FH)
 
 ### 學校社群/社團
 
