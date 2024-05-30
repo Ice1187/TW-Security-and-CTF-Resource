@@ -112,7 +112,7 @@
 
 ### Uncategorized
 
-- [交大網路安全策進會 歷年社課](https://bamboofox.cs.nctu.edu.tw/courses)
+- [交大網路安全策進會 歷年社課](https://bamboofox.cs.nycu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
 - [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
@@ -149,7 +149,7 @@
 - [Hackme CTF](https://ctf.hackme.quest/)
 - [SCIST CTF](https://ctf.scist.org/)
 - [LoTuX CTF](https://lotuxctf.com/)
-- [BambooFox Wargame](https://bamboofox.cs.nctu.edu.tw/challenge_submissions)
+- [BambooFox Wargame](https://bamboofox.cs.nycu.edu.tw/challenge_submissions)
 
 ## 營隊 & 培訓計畫
 
@@ -180,7 +180,7 @@
 
 - [台灣大學 網路安全實驗室 Balsn](https://balsn.tw)
 - [台灣科技大學 資安研究社 NTUSTISC](https://www.facebook.com/ntust.hacking)
-- [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nctu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
+- [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nycu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
 - [中央大學 CTF 讀書會 NCtfU](https://www.facebook.com/nctfu/)
 - [逢甲大學 黑客社 HackerSir](https://hackersir.org/) [(FB 粉專)](https://www.facebook.com/HackerSir.tw/)
 - [中山大學 資安社 NSYSU ISC](https://www.facebook.com/nsysuisc/)
