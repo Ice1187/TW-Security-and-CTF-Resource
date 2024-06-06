@@ -40,9 +40,10 @@
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
   - [Fuzzing](#fuzzing-1)
-  - [Embedded](#embedded)
-  - [Penetration Test](#penetration-test)
-  - [Car/Automotive Hacking](#carautomotive-hacking)
+  - [Embedded](#embedded-嵌入式系統)
+  - [Penetration Test](#penetration-test-滲透測試)
+  - [Car/Automotive Hacking](#carautomotive-hacking-汽車安全)
+  - [ICS Security](#ics-security-工控安全)
   - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
