@@ -248,18 +248,25 @@
 
 - [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 
-### Embedded
+### Embedded 嵌入式系統
 
 - [Embedded Security CTF](https://microcorruption.com)
 
-### Penetration Test
+### Penetration Test 滲透測試
 
 - [HackTheBox](https://www.hackthebox.com)
 - [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
 
-### Car/Automotive Hacking
+### Car/Automotive Hacking 汽車安全
 
 - [Car Hacking 101: Practical Guide to Exploiting CAN-Bus using Instrument Cluster Simulator](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+- [Instrument Cluster Simulator for SocketCAN](https://github.com/zombieCraig/ICSim)
+
+### ICS Security 工控安全
+
+- [Fortiphyd Logic Inc](https://www.youtube.com/@fortiphyd/videos)
+- [Graphical Realism Framework for Industrial Control Simulation](https://github.com/Fortiphyd/GRFICSv2)
+
 
 ### Uncategorized
 
