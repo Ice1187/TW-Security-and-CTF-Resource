@@ -161,7 +161,7 @@
 - [Global Cybersecurity Camp (GCC)](https://gcc.ac/)
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
-- [TeamT5 Security Camp 資安培訓營](https://www.facebook.com/TeamT5.org/posts/834872695315069) ([筆試題目索取表單](https://docs.google.com/forms/d/e/1FAIpQLScfSsNj1D5CBal5q1NPHgYXTGjf_Axn40B-Kdph7durJqPSbg/viewform))
+- [TeamT5 Security Camp 資安培訓營](https://www.facebook.com/TeamT5.org/posts/834872695315069)
 - [資安菁英人才培訓課程](https://www.facebook.com/te.nics.tw/)
 - [HITCON Training](https://hacker.org.tw/training/)
 
