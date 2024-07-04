@@ -195,6 +195,7 @@
 - [DEVCORE CONFERENCE](https://conf.devco.re/)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
+- [Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
 - [活動分享 by NICS 資安人蔘](https://www.facebook.com/te.nics.tw/)
 
 ## 獎學金
