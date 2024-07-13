@@ -20,6 +20,7 @@
   - [Fuzzing](#fuzzing)
   - [Windows](#windows)
   - [Android](#android)
+  - [紅隊演練 / 滲透測試](#紅隊演練-滲透測試)
   - [Advanced (?](#advanced-)
   - [大學課程線上影片](#大學課程線上影片)
   - [Uncategorized](#uncategorized)
@@ -99,6 +100,10 @@
 ### Android
 
 - [Android App 逆向入門 by Huli](https://blog.huli.tw/2023/04/27/android-apk-decompile-intro-1/)
+
+### 紅隊演練 / 滲透測試
+
+- [DEVCORE 紅隊演練專家應徵指南](https://devco.re/blog/2024/07/09/guide-to-applying-for-red-team-specialist/)
 
 ### Advanced (?
 
@@ -254,10 +259,12 @@
 
 - [Embedded Security CTF](https://microcorruption.com)
 
-### Penetration Test 滲透測試
+### Penetration Test 滲透測試 / Red Team 紅隊演練
 
 - [HackTheBox](https://www.hackthebox.com)
 - [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
+- [ired.team](https://www.ired.team/)
+- [Overview of network pivoting and tunneling](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 
 ### Car/Automotive Hacking 汽車安全
 
