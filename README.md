@@ -55,7 +55,7 @@
 
 - [Introduction to CTF by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Introduction%20to%20CTF.pdf)
 - [Linux Basic by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
-- [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1lyPVZfxukB8hk-RLzuVoLS9c8-jcAMrl/view)
+- [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1Yj6xmmJWHbleFRzbxVM1XbRzfFNGZg8w/view)
 
 ### Pwn
 
