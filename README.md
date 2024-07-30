@@ -216,6 +216,7 @@
 - [TrapaSecurity 實習](https://www.cakeresume.com/companies/trapasecurity/jobs)
 - [TXOne Networks 實習](https://txone.uat.tclstaging.com/blog/2023-txone-global-cybersecurity-internship-program/)
 - [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
+- [教育部資訊安全人才培育計畫 職缺公佈欄](https://isip.moe.edu.tw/job/)
 
 ## 贊助
 
