@@ -131,6 +131,7 @@
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
 - [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
 - [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds by Orange🍊](https://github.com/orangetw/My-Presentation-Slides#2023)
+- [CTF種子培訓工作坊](https://www.facebook.com/te.nics.tw/)
 
 ## CTF
 
