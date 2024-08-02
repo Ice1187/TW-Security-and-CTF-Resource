@@ -53,6 +53,8 @@
 
 ### Basics
 
+- [高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)
+- [AIS3 Junior 新型態高中職資安課程](https://ais3.org/junior)
 - [Introduction to CTF by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Introduction%20to%20CTF.pdf)
 - [Linux Basic by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 - [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1Yj6xmmJWHbleFRzbxVM1XbRzfFNGZg8w/view)
