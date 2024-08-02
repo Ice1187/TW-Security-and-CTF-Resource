@@ -198,6 +198,7 @@
 ## 活動
 
 - [HITCON 台灣駭客年會](https://hitcon.org)
+  - [學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 - [DEVCORE CONFERENCE](https://conf.devco.re/)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
@@ -218,9 +219,12 @@
 - [趨勢科技實習](https://careers.trendmicro.tw/%E6%A0%A1%E5%9C%92%E5%B0%88%E5%8D%80/young%E8%B6%A8%E5%8B%A2%E4%BA%BA%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92/)
 - [教育部資訊安全人才培育計畫 職缺公佈欄](https://isip.moe.edu.tw/job/)
 
-## 贊助
+## 補助、贊助
 
 - [HITCON 台灣資安社群補助計畫](https://hacker.org.tw/projects/hitcon-community-subsidy/)
+  - 讀書會、會議經費補助
+  - 社群長期計劃合作
+  - 資安技術教育自媒體
 - [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
 - 奧義智慧科技
 
