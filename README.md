@@ -128,6 +128,7 @@
 
 ## 經驗分享
 
+- [資安怎麼入門大哉問 by 駭客花生醬](https://vocus.cc/article/655f63dcfd89780001a93397)
 - [關於 CTF 的那些事 by LYS](https://www.youtube.com/watch?v=_lNPRlt6c2E)
 - [Windows 系統安全這麼複雜怎麼學 by Zeze](https://drive.google.com/file/d/1CPnYh8_BXJzxAEY_VJUDlLsdvWuSN0q8/view)
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
