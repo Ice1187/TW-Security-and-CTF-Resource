@@ -24,6 +24,7 @@
   - [Advanced (?](#advanced-)
   - [大學課程線上影片](#大學課程線上影片)
   - [Uncategorized](#uncategorized)
+  - [web3](#web3)
 - [經驗分享](#經驗分享)
 - [CTF](#ctf)
 - [Wargame](#wargame)
@@ -125,6 +126,11 @@
 - [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 - [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
+
+### web3
+
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+- [區塊鏈黑暗森林自救手冊](https://darkhandbook.io/)
 
 ## 經驗分享
 
