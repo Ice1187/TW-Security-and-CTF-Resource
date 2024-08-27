@@ -34,6 +34,7 @@
 - [獎學金](#獎學金)
 - [實習](#實習)
 - [贊助](#贊助)
+- [漏洞通報](#漏洞通報)
 - [國外資源](#國外資源)
   - [Mindset](#mindset-心法)
   - [CTF](#ctf-1)
@@ -106,6 +107,7 @@
 ### 紅隊演練 / 滲透測試
 
 - [DEVCORE 紅隊演練專家應徵指南](https://devco.re/blog/2024/07/09/guide-to-applying-for-red-team-specialist/)
+- [HITCON ZeroDay](https://zeroday.hitcon.org/)
 
 ### Advanced (?
 
@@ -231,6 +233,9 @@
   - 資安技術教育自媒體
 - [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
 - 奧義智慧科技
+
+## 漏洞通報
+- [HITCON ZeroDay](https://zeroday.hitcon.org/)
 
 ## 國外資源
 
