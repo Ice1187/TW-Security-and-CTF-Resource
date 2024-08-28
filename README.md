@@ -48,7 +48,7 @@
   - [Penetration Test 滲透測試](#penetration-test-滲透測試)
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
-  - [Web3](#Web3)
+  - [Web3](#Web3-1)
   - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
