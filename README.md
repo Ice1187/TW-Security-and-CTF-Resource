@@ -22,6 +22,7 @@
   - [Android](#android)
   - [紅隊演練 / 滲透測試](#紅隊演練--滲透測試)
   - [工控安全](#工控安全)
+  - [Web3](#Web3)
   - [Advanced (?](#advanced-)
   - [大學課程線上影片](#大學課程線上影片)
   - [Uncategorized](#uncategorized)
@@ -47,6 +48,7 @@
   - [Penetration Test 滲透測試](#penetration-test-滲透測試)
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
+  - [Web3](#Web3)
   - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -112,6 +114,9 @@
 
 ### 工控安全
 - [實戰工控場域攻擊 - 現行工業控制場域網路 by tyc4d @ BambooFox CSC](https://www.youtube.com/live/Nf38rq4lbAI)
+
+### Web3
+- [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
 ### Advanced (?
 
@@ -296,6 +301,9 @@
 - [Fortiphyd Logic Inc](https://www.youtube.com/@fortiphyd/videos)
 - [Graphical Realism Framework for Industrial Control Simulation](https://github.com/Fortiphyd/GRFICSv2)
 
+### Web3
+
+- [區塊鏈黑暗森林自救手冊](https://darkhandbook.io/)
 
 ### Uncategorized
 
