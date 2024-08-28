@@ -21,6 +21,7 @@
   - [Windows](#windows)
   - [Android](#android)
   - [紅隊演練 / 滲透測試](#紅隊演練--滲透測試)
+  - [工控安全](#工控安全)
   - [Advanced (?](#advanced-)
   - [大學課程線上影片](#大學課程線上影片)
   - [Uncategorized](#uncategorized)
@@ -108,6 +109,9 @@
 
 - [DEVCORE 紅隊演練專家應徵指南](https://devco.re/blog/2024/07/09/guide-to-applying-for-red-team-specialist/)
 - [HITCON ZeroDay](https://zeroday.hitcon.org/)
+
+### 工控安全
+- [實戰工控場域攻擊 - 現行工業控制場域網路 by tyc4d @ BambooFox CSC](https://www.youtube.com/live/Nf38rq4lbAI)
 
 ### Advanced (?
 
