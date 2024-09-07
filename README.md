@@ -240,7 +240,7 @@
   - 讀書會、會議經費補助
   - 社群長期計劃合作
   - 資安技術教育自媒體
-- [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
+- [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2024/09/06/2024-devcore-cybersecurity-scholarship-application-opens/)
 - 奧義智慧科技
 
 ## 漏洞通報
