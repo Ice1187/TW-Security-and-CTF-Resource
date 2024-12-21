@@ -261,8 +261,6 @@
 
 - [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
-- [Hello CTF](https://hello-ctf.com/)
-- [CTF Wiki](https://ctf-wiki.org/)
 
 ### Web
 
@@ -320,4 +318,3 @@
 
 - [pwn.college](https://pwn.college)
 - [TryHackMe](https://tryhackme.com/)
-- [極客方舟](https://deelmind.com.cn/)
