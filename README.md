@@ -166,13 +166,14 @@
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 
-## Wargame
+## Wargame 練習平台
 
 - [pwnable.tw](https://pwnable.tw)
 - [Hackme CTF](https://ctf.hackme.quest/)
+- [NCKU CTF](https://class.nckuctf.org/)
+- [BambooFox Wargame](https://bamboofox.cs.nycu.edu.tw/challenge_submissions)
 - [SCIST CTF](https://ctf.scist.org/)
 - [LoTuX CTF](https://lotuxctf.com/)
-- [BambooFox Wargame](https://bamboofox.cs.nycu.edu.tw/challenge_submissions)
 
 ## 營隊 & 培訓計畫
 
@@ -204,7 +205,7 @@
 - [台灣大學 網路安全實驗室 Balsn](https://balsn.tw)
 - [台灣科技大學 資安研究社 NTUSTISC](https://www.facebook.com/ntust.hacking)
 - [交通大學 網路安全策進會 BambooFox CSC](https://bamboofox.cs.nycu.edu.tw/) [(FB 粉專)](https://www.facebook.com/NCTUCSC/)
-- [臺北科技大學 資訊安全實驗室]
+- [臺北科技大學 資訊安全實驗室](https://is1ab.com/) [(is1lab Web GitHub)](https://github.com/is1ab-web)
 - [中央大學 CTF 讀書會 NCtfU](https://www.facebook.com/nctfu/)
 - [逢甲大學 黑客社 HackerSir](https://hackersir.org/) [(FB 粉專)](https://www.facebook.com/HackerSir.tw/)
 - [中山大學 資安社 NSYSU ISC](https://www.facebook.com/nsysuisc/)
@@ -224,11 +225,11 @@
 
 ## 獎學金
 
-- [DEVCORE 全國資訊安全獎學金](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
+- [DEVCORE 全國資訊安全獎學金](https://devco.re/blog/2024/09/06/2024-devcore-cybersecurity-scholarship-application-opens/)
 
 ## 實習
 
-- [DEVCORE 實習生計畫](https://devco.re/blog/2024/07/18/6th-internship-program-recruit/)
+- [DEVCORE 實習生計畫](https://devco.re/blog/2024/12/02/7th-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://docs.google.com/forms/d/e/1FAIpQLSeu2qFpHICCRmwtcAo1O_9MJRNdgWpO7DdOMd7MDeWEgRf8ew/viewform)
 - [TeamT5 實習](https://www.104.com.tw/company/1a2x6bkavd?roleJobCat=2_0&area=0&page=1&pageSize=20&order=8&asc=0&jobsource=company_job%5D%28https%3A%2F%2Fwww.104.com.tw%2Fcompany%2F1a2x6bkavd%3FroleJobCat%3D2_0&jobsource=company_job&tab=job)
 - [TrapaSecurity 實習](https://www.cakeresume.com/companies/trapasecurity/jobs)
@@ -242,7 +243,7 @@
   - 讀書會、會議經費補助
   - 社群長期計劃合作
   - 資安技術教育自媒體
-- [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2023/08/30/2023-devcore-cybersecurity-scholarship-application-opens/)
+- [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2024/09/06/2024-devcore-cybersecurity-scholarship-application-opens/)
 - 奧義智慧科技
 
 ## 漏洞通報
