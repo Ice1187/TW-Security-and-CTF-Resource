@@ -49,6 +49,7 @@
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
   - [Web3](#Web3-1)
+  - [Wargame](#Wargame-1)
   - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -136,6 +137,7 @@
 - [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 - [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
+- [HackerCat](https://hackercat.org/)
 
 ## 經驗分享
 
@@ -305,6 +307,12 @@
 ### Web3
 
 - [區塊鏈黑暗森林自救手冊](https://darkhandbook.io/)
+
+### Wargame
+
+- [OverTheWire](https://overthewire.org/wargames/)
+- [The Ethernaut](https://ethernaut.openzeppelin.com/)
+
 
 ### Uncategorized
 
