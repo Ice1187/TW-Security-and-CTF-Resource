@@ -185,7 +185,7 @@
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
 - [TeamT5 Security Camp 資安培訓營](https://www.facebook.com/TeamT5.org/posts/834872695315069)
-- [資安菁英人才培訓課程](https://www.facebook.com/te.nics.tw/)
+- [國家資通安全研究院 培訓課程](https://www.nics.nat.gov.tw/latest_news/announcements/Event_Information/)
 - [HITCON Training](https://hacker.org.tw/training/)
 
 ## 社群 & 學校社團
