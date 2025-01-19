@@ -184,7 +184,7 @@
 - [臺灣好厲駭 高階資安人才培訓計畫](https://www.facebook.com/people/TAIWANHolyHigh/100067003001515/)
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [中部高中電資聯合會議 SCAICT 資訊安全課程](https://www.instagram.com/scaict.tw/)
-- [TeamT5 Security Camp 資安培訓營](https://www.facebook.com/TeamT5.org/posts/834872695315069)
+- [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/teamt5-security-camp-2025-info/)
 - [Global Cybersecurity Camp (GCC)](https://gcc.ac/)
 - [TDOH - 資安功德院](https://www.facebook.com/TSCHackerTDOH)
 - [國家資通安全研究院 培訓課程](https://www.nics.nat.gov.tw/latest_news/announcements/Event_Information/)
