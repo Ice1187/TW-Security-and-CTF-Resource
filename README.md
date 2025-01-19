@@ -290,7 +290,7 @@
 ### Penetration Test 滲透測試 / Red Team 紅隊演練
 
 - [HackTheBox](https://www.hackthebox.com)
-- [IppSec's Youtube](https://www.youtube.com/c/ippsec/videos)
+- [IppSec's YouTube](https://www.youtube.com/c/ippsec/videos)
 - [GOAD: Game of Active Directory](https://github.com/Orange-Cyberdefense/GOAD)
 - [ired.team](https://www.ired.team/)
 - [Overview of network pivoting and tunneling](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
@@ -317,5 +317,6 @@
 
 ### Uncategorized
 
+- [Low Level's YouTube](https://www.youtube.com/@LowLevelTV)
 - [pwn.college](https://pwn.college)
 - [TryHackMe](https://tryhackme.com/)
