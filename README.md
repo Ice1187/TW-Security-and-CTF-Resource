@@ -137,6 +137,7 @@
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nycu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
 - [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
+- [南臺灣學生資訊社群 歷年資安課程](https://www.youtube.com/@OfficialSCIST/playlists)
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 - [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
 - [HackerCat](https://hackercat.org/)
