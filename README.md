@@ -203,6 +203,7 @@
 - [UCCU Hacker](https://www.facebook.com/UCCU.Hacker/)
 - [CHROOT](http://www.chroot.org)
 - [B33F 50UP](https://discord.gg/G5rTjx72FH)
+- [StarHack 星駭資安社群](https://www.facebook.com/StarHackAcademy/)
 
 ### 學校社群/社團
 
