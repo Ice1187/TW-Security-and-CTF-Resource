@@ -144,6 +144,7 @@
 
 ## 經驗分享
 
+- [CTF轉生 — 不轉生就拿出真本事](https://blog.terrynini.tw/tw/2024-CTF%E8%BD%89%E7%94%9F%E2%80%94%E4%B8%8D%E8%BD%89%E7%94%9F%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B/)
 - [資安怎麼入門大哉問 by 駭客花生醬](https://vocus.cc/article/655f63dcfd89780001a93397)
 - [關於 CTF 的那些事 by LYS](https://www.youtube.com/watch?v=_lNPRlt6c2E)
 - [Windows 系統安全這麼複雜怎麼學 by Zeze](https://drive.google.com/file/d/1CPnYh8_BXJzxAEY_VJUDlLsdvWuSN0q8/view)
