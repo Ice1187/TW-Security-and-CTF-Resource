@@ -95,6 +95,10 @@
 
 - [從 0 開始的 Web Security by seadog007](https://ithelp.ithome.com.tw/articles/10237617)
 
+### Infra
+- [Chumy's note](https://github.com/Jimmy01240397/Chumy_Note)
+- [Chumy's blog](https://blog.chummy.tw)
+
 ### Fuzzing
 
 - [fuzzing-learning-in-30-days by u1f383](https://github.com/u1f383/fuzzing-learning-in-30-days)
