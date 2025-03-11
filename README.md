@@ -254,6 +254,7 @@
 
 ## 漏洞通報
 - [HITCON ZeroDay](https://zeroday.hitcon.org/)
+- [TWCERT/CC 台灣漏洞揭露平台 (TVN)](https://www.twcert.org.tw/tw/np-131-1.html)
 
 ## 國外資源
 
