@@ -142,6 +142,7 @@
 - [Awesome Taiwan Security Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course)
 - [Got Your PW 專供資安人的資源與工具整理](https://gotyour.pw/resources.html)
 - [HackerCat](https://hackercat.org/)
+- [CTF種子培訓工作坊](https://www.facebook.com/te.nics.tw/)
 
 ## 經驗分享
 
@@ -152,7 +153,10 @@
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
 - [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
 - [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds by Orange🍊](https://github.com/orangetw/My-Presentation-Slides#2023)
-- [CTF種子培訓工作坊](https://www.facebook.com/te.nics.tw/)
+
+### 研究投稿 & 發表
+- [HITCON 投稿生存指南 by HITCON RB 主席 Bletchley](https://www.youtube.com/watch?t=3161&v=hHKMPj6qFxs)
+- [HITCON 學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 
 ## CTF
 
