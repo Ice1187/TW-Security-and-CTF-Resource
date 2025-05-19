@@ -127,6 +127,7 @@
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [Hao's Arsenal](https://blog.30cm.tw)
 - [DEVCORE 技術專欄](https://devco.re/blog/category/%E6%8A%80%E8%A1%93%E5%B0%88%E6%AC%84/)
+  - [DEVCORE 技術專欄英文版 (note: 兩邊文章不完全相同)](https://devco.re/en/blog/category/Tech%20Editorials/)
 
 ### 大學課程線上影片
 
