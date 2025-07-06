@@ -175,6 +175,7 @@
 - [神盾盃 資安競賽](https://www.facebook.com/Aegis.CTF/?locale=zh_TW)
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
+- [No Hack No CTF](https://nhnc.ic3dt3a.org/)
 
 ## Wargame 練習平台
 
@@ -230,6 +231,7 @@
 - [HITCON 台灣駭客年會](https://hitcon.org)
   - [學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 - [DEVCORE CONFERENCE](https://conf.devco.re/)
+- [CraftCon](https://www.cycraft.com/news/craftcon2025-20250422)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 - [Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
