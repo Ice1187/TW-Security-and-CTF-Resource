@@ -243,7 +243,7 @@
 
 ## 實習
 
-- [DEVCORE 實習生計畫](https://devco.re/blog/2024/12/02/7th-internship-program-recruit/)
+- [DEVCORE 實習生計畫](https://devco.re/blog/2025/07/07/8th-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://docs.google.com/forms/d/e/1FAIpQLSeu2qFpHICCRmwtcAo1O_9MJRNdgWpO7DdOMd7MDeWEgRf8ew/viewform)
 - [TeamT5 實習](https://www.104.com.tw/company/1a2x6bkavd?roleJobCat=2_0&area=0&page=1&pageSize=20&order=8&asc=0&jobsource=company_job%5D%28https%3A%2F%2Fwww.104.com.tw%2Fcompany%2F1a2x6bkavd%3FroleJobCat%3D2_0&jobsource=company_job&tab=job)
 - [TrapaSecurity 實習](https://www.cakeresume.com/companies/trapasecurity/jobs)
