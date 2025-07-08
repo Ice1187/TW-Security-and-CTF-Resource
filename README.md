@@ -232,6 +232,7 @@
   - [學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 - [DEVCORE CONFERENCE](https://conf.devco.re/)
 - [CraftCon](https://www.cycraft.com/news/craftcon2025-20250422)
+- [TeamT5 威脅分析師高峰會](https://teamt5.org/tw/posts/2025-teamt5-threat-analyst-summit/)
 - [CYBERSEC 臺灣資安大會](https://cyber.ithome.com.tw/)
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 - [Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
