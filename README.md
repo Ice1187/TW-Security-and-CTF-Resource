@@ -79,6 +79,7 @@
 - [How to Hack Websites by Splitline](https://github.com/splitline/How-to-Hack-Websites)
 - [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
 - [Huli's Blog](https://blog.huli.tw/categories/Security/)
+- [Beyond XSS：探索網頁前端資安宇宙 by Huli](https://aszx87410.github.io/beyond-xss/)
 
 ### Reverse
 
