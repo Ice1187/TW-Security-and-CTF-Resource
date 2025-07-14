@@ -160,6 +160,9 @@
 - [HITCON 投稿生存指南 by HITCON RB 主席 Bletchley](https://www.youtube.com/watch?t=3161&v=hHKMPj6qFxs)
 - [HITCON 學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 
+### 證照
+- [EXP-401 (OSEE)：用五天課程訓練通透十年的知識體系](https://devco.re/blog/2025/05/22/exp-401-osee-five-days-to-master-a-decade-of-knowledge/)
+
 ## CTF
 
 - [MyFirstCTF](https://ais3.org/mfctf/)
