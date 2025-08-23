@@ -73,6 +73,7 @@
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
 - [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
 - [Kazma's Blog](https://kazma.tw)
+- [u1f383's Blog](https://u1f383.github.io/about/)
 
 ### Web
 
