@@ -50,6 +50,7 @@
   - [ICS Security 工控安全](#ics-security-工控安全)
   - [Web3](#Web3-1)
   - [Wargame](#Wargame-1)
+  - [CTF Design 題目設計](#ctf-design-題目設計)
   - [Uncategorized](#uncategorized-1)
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
@@ -337,7 +338,7 @@
 - [OverTheWire](https://overthewire.org/wargames/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 
-### CTF Design
+### CTF Design 題目設計
 
 - [CTF Design Guidelines](https://docs.google.com/document/d/1QBhColOjT8vVeyQxM1qNE-pczqeNSJiWOEiZQF2SSh8/preview)
 
