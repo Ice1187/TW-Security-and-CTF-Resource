@@ -337,6 +337,10 @@
 - [OverTheWire](https://overthewire.org/wargames/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 
+### CTF Design
+
+- [CTF Design Guidelines](https://docs.google.com/document/d/1QBhColOjT8vVeyQxM1qNE-pczqeNSJiWOEiZQF2SSh8/preview)
+
 
 ### Uncategorized
 
