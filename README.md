@@ -81,6 +81,7 @@
 - [[資安新手入門手冊] Web Security 領航之路 by 飛飛](https://medium.com/資子之手-安之你我/資安新手入門手冊-web-security-領航之路-8d634d9228b5)
 - [Huli's Blog](https://blog.huli.tw/categories/Security/)
 - [Beyond XSS：探索網頁前端資安宇宙 by Huli](https://aszx87410.github.io/beyond-xss/)
+- [Orange🍊's Blog](https://blog.orange.tw/)
 
 ### Reverse
 
@@ -92,7 +93,7 @@
 ### Crypto
 
 - [Crypto Course by oalieno](https://github.com/OAlienO/Crypto-Course)
-- [Maple's Blog](https://blog.maple3142.net/)
+- [Maple🍁's Blog](https://blog.maple3142.net/)
 
 ### Network
 
@@ -156,6 +157,8 @@
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
 - [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
 - [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds by Orange🍊](https://github.com/orangetw/My-Presentation-Slides#2023)
+- [The Art of PHP — My CTF Journey and Untold Stories! (繁中) by Orange🍊](https://blog.orange.tw/posts/2025-08-the-art-of-php-ch/)
+
 
 ### 研究投稿 & 發表
 - [HITCON 投稿生存指南 by HITCON RB 主席 Bletchley](https://www.youtube.com/watch?t=3161&v=hHKMPj6qFxs)
