@@ -234,6 +234,7 @@
 - [輔仁大學 資訊安全研究會 NISRA](https://www.facebook.com/N15RA/)
 - [東海大學 駭客社](https://www.facebook.com/東海駭客社-Hackers-in-Tunghai-115250553936475/)
 - [成功大學 資安社](https://linktr.ee/NCKUCTF)
+- [台東大學 資安社](https://www.instagram.com/nttu_hack/)
 
 ## 活動
 
