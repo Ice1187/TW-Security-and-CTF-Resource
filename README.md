@@ -88,7 +88,7 @@
 
 - [SCIST 資安課程：我獨自逆向：Reverse by Kazma](https://github.com/kazmatw/Kazma-Reverse-Engineering-Course)
 - [2021 交大程式安全 Reverse Engineering 逆向工程簡報、影片、題目 by LJP-TW](https://github.com/LJP-TW/NYCU-Secure-Programming)
-- [2020 交大程式安全：逆向工程上課講義 by Terrynini](https://speakerdeck.com/terrynini/2020-jiao-da-cheng-shi-an-quan-ni-xiang-gong-cheng-shang-ke-jiang-yi-nil-di-zhou-di-duan)
+- [2020 交大程式安全：逆向工程上課講義 by NiNi](https://speakerdeck.com/terrynini/2020-jiao-da-cheng-shi-an-quan-ni-xiang-gong-cheng-shang-ke-jiang-yi-nil-di-zhou-di-duan)
 - [2023 臺大計算機安全：Windows Malware RE by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Windows%20Malware%20RE.pdf)
 
 ### Crypto
@@ -151,9 +151,10 @@
 
 ## 經驗分享
 
-- [CTF轉生 — 不轉生就拿出真本事](https://blog.terrynini.tw/tw/2024-CTF%E8%BD%89%E7%94%9F%E2%80%94%E4%B8%8D%E8%BD%89%E7%94%9F%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B/)
+- [CTF轉生 — 不轉生就拿出真本事 by NiNi](https://blog.terrynini.tw/tw/2024-CTF%E8%BD%89%E7%94%9F%E2%80%94%E4%B8%8D%E8%BD%89%E7%94%9F%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B/)
 - [資安怎麼入門大哉問 by 駭客花生醬](https://vocus.cc/article/655f63dcfd89780001a93397)
 - [關於 CTF 的那些事 by LYS](https://www.youtube.com/watch?v=_lNPRlt6c2E)
+- [獨自升級的駭客: 自由之路從框架開始 by NiNi](https://www.youtube.com/watch?v=GP0H3DP-GZQ) ([slides](https://drive.google.com/file/d/1oFQJ6mFD_usynJPzk0RYJzL1dD7K8X78/view))
 - [Windows 系統安全這麼複雜怎麼學 by Zeze](https://drive.google.com/file/d/1CPnYh8_BXJzxAEY_VJUDlLsdvWuSN0q8/view)
 - [黑客、社團、資訊魔法學習大總匯 by 飛飛](https://www.youtube.com/watch?v=SkUuK731XGY)
 - [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
