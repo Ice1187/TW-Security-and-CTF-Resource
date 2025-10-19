@@ -186,7 +186,6 @@
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 - [No Hack No CTF](https://nhnc.ic3dt3a.org/)
-- [Flare-On Challenge (for Reverse)](https://flare-on.com/)
 
 ## Wargame 練習平台
 
@@ -290,6 +289,7 @@
 
 - [picoCTF](https://picoctf.org)
 - [CTFtime](https://ctftime.org)
+- [The Flare-On Challenge (for Reverse)](https://flare-on.com/)
 
 ### Web
 
