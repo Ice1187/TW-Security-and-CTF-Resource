@@ -108,7 +108,7 @@
 ### Windows
 
 - [現實主義勇者的 Windows 攻防記 by Zeze](https://ithelp.ithome.com.tw/users/20129318/ironman/4165)
-- [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9786263335448)
+- [Windows APT Warfare：惡意程式前線戰術指南 by aaaddress1](https://www.tenlong.com.tw/products/9786264142519)
 
 ### Android
 
@@ -186,6 +186,7 @@
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 - [No Hack No CTF](https://nhnc.ic3dt3a.org/)
+- [Flare-On Challenge (for Reverse)](https://flare-on.com/)
 
 ## Wargame 練習平台
 
@@ -236,6 +237,7 @@
 - [東海大學 駭客社](https://www.facebook.com/東海駭客社-Hackers-in-Tunghai-115250553936475/)
 - [成功大學 資安社](https://linktr.ee/NCKUCTF)
 - [台東大學 資安社](https://www.instagram.com/nttu_hack/)
+- [台南大學 資安社](https://www.instagram.com/nutn_isc/)
 
 ## 活動
 
