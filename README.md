@@ -306,6 +306,13 @@
 
 - [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
+- [Pwn2Own](https://www.trendmicro.com/en_us/zero-day-initiative/pwn2own.html)
+
+### General Training (multiple aspects)
+
+- [Low Level's YouTube](https://www.youtube.com/@LowLevelTV)
+- [pwn.college](https://pwn.college)
+- [TryHackMe](https://tryhackme.com/)
 
 ### Fuzzing
 
@@ -345,10 +352,3 @@
 ### CTF Design 題目設計
 
 - [CTF Design Guidelines](https://docs.google.com/document/d/1QBhColOjT8vVeyQxM1qNE-pczqeNSJiWOEiZQF2SSh8/preview)
-
-
-### Uncategorized
-
-- [Low Level's YouTube](https://www.youtube.com/@LowLevelTV)
-- [pwn.college](https://pwn.college)
-- [TryHackMe](https://tryhackme.com/)
