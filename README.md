@@ -72,7 +72,7 @@
 - [2021 交大程式安全 binary exploit 課程教材 by u1f383 & kia](https://github.com/u1f383/Software-Security-2021)
 - [漏洞攻擊從入門到放棄 by frozenkp](https://www.youtube.com/playlist?list=PL7bgZHZRy3pJ1Lw-OmN5v3uEz-wSgPiCN)
 - [Linux Kernel Exploitation by Yuawn](https://github.com/yuawn/Linux-Kernel-Exploitation)
-- [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations)
+- [Angel Boy's SlideShares](https://www.slideshare.net/AngelBoy1/presentations) ([YouTube Live Recording](https://www.youtube.com/@scwuaptx/streams))
 - [Kazma's Blog](https://kazma.tw)
 - [u1f383's Blog](https://u1f383.github.io/about/)
 
