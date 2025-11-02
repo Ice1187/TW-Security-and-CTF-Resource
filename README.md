@@ -321,6 +321,7 @@
 ### Embedded 嵌入式系統
 
 - [Embedded Security CTF](https://microcorruption.com)
+- [MITRE Embedded CTF](https://ectf.mitre.org/)
 
 ### Penetration Test 滲透測試 / Red Team 紅隊演練
 
