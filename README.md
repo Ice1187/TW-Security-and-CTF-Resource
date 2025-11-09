@@ -320,6 +320,7 @@
 
 ### Embedded 嵌入式系統
 
+- [Hardware Security Research by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
 - [Embedded Security CTF](https://microcorruption.com)
 - [MITRE Embedded CTF](https://ectf.mitre.org/)
 
