@@ -44,7 +44,7 @@
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
   - [Fuzzing](#fuzzing-1)
-  - [Embedded 嵌入式系統](#embedded-嵌入式系統)
+  - [Embedded / IoT](#embedded--iot)
   - [Penetration Test 滲透測試](#penetration-test-滲透測試)
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
@@ -308,6 +308,10 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
 - [Pwn2Own](https://www.trendmicro.com/en_us/zero-day-initiative/pwn2own.html)
 
+## Reverse
+
+- [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing)
+
 ### General Training (multiple aspects)
 
 - [Low Level's YouTube](https://www.youtube.com/@LowLevelTV)
@@ -318,9 +322,10 @@
 
 - [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 
-### Embedded 嵌入式系統
+### Embedded / IoT
 
 - [Hardware Security Research by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
+- [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing/videos)
 - [Embedded Security CTF](https://microcorruption.com)
 - [MITRE Embedded CTF](https://ectf.mitre.org/)
 
