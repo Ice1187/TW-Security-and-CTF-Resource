@@ -43,9 +43,11 @@
   - [Web](#web-1)
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
+  - [Reverse](#reverse-1)
+  - [General Training](general-training)
   - [Fuzzing](#fuzzing-1)
   - [Embedded / IoT](#embedded--iot)
-  - [Penetration Test 滲透測試](#penetration-test-滲透測試)
+  - [Penetration Test / Red Team](#penetration-test--red-team)
   - [Car/Automotive Hacking 汽車安全](#carautomotive-hacking-汽車安全)
   - [ICS Security 工控安全](#ics-security-工控安全)
   - [Web3](#Web3-1)
@@ -308,11 +310,11 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
 - [Pwn2Own](https://www.trendmicro.com/en_us/zero-day-initiative/pwn2own.html)
 
-## Reverse
+### Reverse
 
 - [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing)
 
-### General Training (multiple aspects)
+### General Training
 
 - [Low Level's YouTube](https://www.youtube.com/@LowLevelTV)
 - [pwn.college](https://pwn.college)
@@ -329,7 +331,7 @@
 - [Embedded Security CTF](https://microcorruption.com)
 - [MITRE Embedded CTF](https://ectf.mitre.org/)
 
-### Penetration Test 滲透測試 / Red Team 紅隊演練
+### Penetration Test / Red Team
 
 - [HackTheBox](https://www.hackthebox.com)
 - [IppSec's YouTube](https://www.youtube.com/c/ippsec/videos)
