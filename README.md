@@ -44,7 +44,7 @@
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
   - [Reverse](#reverse-1)
-  - [General Training](general-training)
+  - [General Training](#general-training)
   - [Fuzzing](#fuzzing-1)
   - [Embedded / IoT](#embedded--iot)
   - [Penetration Test / Red Team](#penetration-test--red-team)
