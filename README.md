@@ -242,6 +242,7 @@
 
 ## 活動
 
+- [/dev/meet 資安小聚 by DEVCORE](https://devcore.kktix.cc/)
 - [HITCON 台灣駭客年會](https://hitcon.org)
   - [學生發表獎勵](https://hacker.org.tw/projects/hitcon-community-subsidy/)
 - [DEVCORE CONFERENCE](https://conf.devco.re/)
