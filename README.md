@@ -187,6 +187,7 @@
 - [神盾盃 資安競賽](https://www.facebook.com/Aegis.CTF/?locale=zh_TW)
 - [GiCS 資安女婕思](https://gics.tw/Home)
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
+- [AIS3 HACKATHON 資安專題黑客松](https://ais3.org/hackathon/2025/)
 - [No Hack No CTF](https://nhnc.ic3dt3a.org/)
 
 ## Wargame 練習平台
@@ -259,7 +260,7 @@
 
 ## 實習
 
-- [DEVCORE 實習生計畫](https://devco.re/blog/2025/07/07/8th-internship-program-recruit/)
+- [DEVCORE 實習生計畫](https://devco.re/blog/2025/12/30/9th-internship-program-recruit/)
 - [奧義智慧科技 資安研究實習生](https://docs.google.com/forms/d/e/1FAIpQLSeu2qFpHICCRmwtcAo1O_9MJRNdgWpO7DdOMd7MDeWEgRf8ew/viewform)
 - [TeamT5 實習](https://www.104.com.tw/company/1a2x6bkavd?roleJobCat=2_0&area=0&page=1&pageSize=20&order=8&asc=0&jobsource=company_job%5D%28https%3A%2F%2Fwww.104.com.tw%2Fcompany%2F1a2x6bkavd%3FroleJobCat%3D2_0&jobsource=company_job&tab=job)
 - [TrapaSecurity 實習](https://www.cakeresume.com/companies/trapasecurity/jobs)
@@ -275,6 +276,7 @@
   - 資安技術教育自媒體
 - [DEVCORE 資安教育活動贊助計劃](https://devco.re/blog/2024/09/06/2024-devcore-cybersecurity-scholarship-application-opens/)
 - 奧義智慧科技
+- [NCSE Network 社群贊助計畫](https://sponsor.ncse.tw/#projects)
 
 ## 漏洞通報
 - [HITCON ZeroDay](https://zeroday.hitcon.org/)
