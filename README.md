@@ -333,7 +333,7 @@
 - [Hardware Security Research by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
 - [RECESSIM's YouTube](https://www.youtube.com/@RECESSIM)
 - [Mattbrwn's YouTube](https://www.youtube.com/@mattbrwn)
-- [FlashbackTeam's Youtube](https://www.youtube.com/@FlashbackTeam)
+- [FlashbackTeam's YouTube](https://www.youtube.com/@FlashbackTeam)
 - [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing/videos)
 - [Embedded Security CTF](https://microcorruption.com)
 - [MITRE Embedded CTF](https://ectf.mitre.org/)
