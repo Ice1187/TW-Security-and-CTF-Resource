@@ -316,6 +316,7 @@
 ### Reverse
 
 - [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing)
+- [Zero2Segfault's YouTube](https://www.youtube.com/@Zero2Segfault/playlists)
 
 ### General Training
 
@@ -330,6 +331,9 @@
 ### Embedded / IoT
 
 - [Hardware Security Research by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjyLgF4x-ZLVFL-CRTCrUo03)
+- [RECESSIM's YouTube](https://www.youtube.com/@RECESSIM)
+- [Mattbrwn's YouTube](https://www.youtube.com/@mattbrwn)
+- [FlashbackTeam's YouTube](https://www.youtube.com/@FlashbackTeam)
 - [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing/videos)
 - [Embedded Security CTF](https://microcorruption.com)
 - [MITRE Embedded CTF](https://ectf.mitre.org/)
