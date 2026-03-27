@@ -142,6 +142,7 @@
 
 ### Uncategorized
 
+- [資安學習路徑 by 飛飛](https://path.feifei.tw)
 - [交大網路安全策進會 歷年社課](https://bamboofox.cs.nycu.edu.tw/courses)
 - [台科大資訊安全研究社 歷年社課](https://www.youtube.com/channel/UC4-PD2BdlYWd807BhJZkjIg/videos)
 - [成大資安社 歷年社課](https://www.youtube.com/@NCKUCTF)
