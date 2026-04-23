@@ -43,7 +43,7 @@
   - [Web](#web-1)
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
-  - [Reverse & Malware Analysis](#reverse-malware-analysis)
+  - [Reverse & Malware Analysis](#reverse--malware-analysis)
   - [General Training](#general-training)
   - [Fuzzing](#fuzzing-1)
   - [Embedded / IoT](#embedded--iot)
