@@ -43,7 +43,7 @@
   - [Web](#web-1)
   - [Crypto](#crypto-1)
   - [Pwn](#pwn-1)
-  - [Reverse](#reverse-1)
+  - [Reverse & Malware Analysis](#reverse-malware-analysis)
   - [General Training](#general-training)
   - [Fuzzing](#fuzzing-1)
   - [Embedded / IoT](#embedded--iot)
@@ -314,8 +314,9 @@
 - [shellphish/how2heap](https://github.com/shellphish/how2heap)
 - [Pwn2Own](https://www.trendmicro.com/en_us/zero-day-initiative/pwn2own.html)
 
-### Reverse
+### Reverse & Malware Analysis
 
+- [FLARE Learing Hub](https://github.com/mandiant/flare-learning-hub)
 - [stacksmashing's YouTube](https://www.youtube.com/@stacksmashing)
 - [Zero2Segfault's YouTube](https://www.youtube.com/@Zero2Segfault/playlists)
 
