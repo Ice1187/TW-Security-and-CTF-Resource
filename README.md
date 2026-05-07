@@ -254,6 +254,7 @@
 - [每月資安、社群活動分享 by TDOHacker](https://blog.tdohacker.org)
 - [Taiwan Security Activity Deadlines](https://stwater20.github.io/taiwan-security-deadlines/)
 - [活動分享 by NICS 資安人蔘](https://www.facebook.com/te.nics.tw/)
+- [hacker-tracker.tw 台灣資訊相關活動行事曆](https://hacker-tracker.tw)
 
 ## 獎學金
 
