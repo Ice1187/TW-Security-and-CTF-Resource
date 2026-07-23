@@ -208,7 +208,7 @@
 - ~~[高中職生資安研習營](https://www.facebook.com/高中職生資安研習營-455550404836569/)~~ (此子計畫已結束)
 - [AIS3 Junior 新型態高中職資安課程](https://ais3.org/junior)
 - [AIS3 新型態資安實務主題課程](https://ais3.org)
-- [臺灣好厲駭 高階資安人才培訓計畫](https://www.facebook.com/people/TAIWANHolyHigh/100067003001515/)
+- [AIS3 好厲駭 高階資安人才培訓計畫](https://ais3.org/AIS3holyhack)
 - [南臺灣學生資訊社群 SCIST 資訊安全課程](https://www.facebook.com/scist.tw)
 - [中部高中電資聯合會議 SCAICT 資訊安全課程](https://www.instagram.com/scaict.tw/)
 - [TeamT5 Security Camp 資安培訓營](https://teamt5.org/tw/posts/teamt5-security-camp-2025-info/)
