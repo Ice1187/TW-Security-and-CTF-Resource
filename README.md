@@ -5,8 +5,7 @@
 ### Wanted:
 
 - [ ] 威脅情資運用
-- [ ] iOS Secuirty
-- [ ] Cloud Security
+- [ ] iOS Security
 
 ## Table of Contents
 
@@ -364,6 +363,7 @@
 
 ### Cloud Security 雲端安全
 
+- [Pwned Labs - Cloud Security Bootcamps](https://pwnedlabs.io/bootcamps)
 - [AWSGoat](https://github.com/ine-labs/AWSGoat)
 - [CloudGoat](https://github.com/rhinosecuritylabs/cloudgoat)
 
