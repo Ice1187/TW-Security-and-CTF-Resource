@@ -164,7 +164,7 @@
 - [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧 by Orange🍊](https://github.com/orangetw/My-Presentation-Slides/blob/main/data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
 - [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds by Orange🍊](https://github.com/orangetw/My-Presentation-Slides#2023)
 - [The Art of PHP — My CTF Journey and Untold Stories! (繁中) by Orange🍊](https://blog.orange.tw/posts/2025-08-the-art-of-php-ch/)
-- [想成為資安研究員的心理建設過程 by TwinkleStar03](https://blog.star03.me/posts/2025/10/%E6%83%B3%E6%88%90%E7%82%BA%E8%B3%87%E5%AE%89%E7%A0%94%E7%A9%B6%E5%93%A1%E7%9A%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%A8%AD%E9%81%8E%E7%A8%8B/)
+- [想成為資安研究員的心路歷程 - 從高中到大學的五年 by TwinkleStar03](https://blog.star03.me/posts/2025/10/%E6%83%B3%E6%88%90%E7%82%BA%E8%B3%87%E5%AE%89%E7%A0%94%E7%A9%B6%E5%93%A1%E7%9A%84%E5%BF%83%E7%90%86%E5%BB%BA%E8%A8%AD%E9%81%8E%E7%A8%8B/)
 
 
 ### 研究投稿 & 發表
